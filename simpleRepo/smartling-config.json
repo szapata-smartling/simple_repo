@@ -45,7 +45,7 @@
             "type"                      : "json",
             "authorizeContent"          : "true",
             "pathRegex"                 : "simpleRepo\\/simple.json",
-            "translationPathExpression" : "simpleRepo/${locale}/${originalFile.name}",
+            "translationPathExpression" : "simpleRepo/${locale}-${region}/${originalFile.name}",
             "smartlingDirectives"       : [
                  "smartling.placeholder_format_custom = (\\$\\{[^\\}]+?\\})|(&[\\w\\d]+?;)",
                  "smartling.variants_enabled = true"
