@@ -55,7 +55,7 @@
          {
             "type"                      : "json",
             "authorizeContent"          : "true",
-            "pathRegex"                 : "simpleRepo\\/CDK.json",
+            "pathRegex"                 : "simpleRepo\\/cdk.json",
             "translationPathExpression" : "simpleRepo/${locale}-${region}/${originalFile.name}",
             "smartlingDirectives"       : [
                 "smartling.translate_paths = [{\"path\": \"*/defaultMessage\",\"key\": \"/{*}/defaultMessage\",\"instruction\": \"\/description\"}]",
