@@ -50,6 +50,18 @@
                  "smartling.placeholder_format_custom = (\\$\\{[^\\}]+?\\})|(&[\\w\\d]+?;)",
                  "smartling.variants_enabled = true"
            ]
+         },
+         
+         {
+            "type"                      : "json",
+            "authorizeContent"          : "true",
+            "pathRegex"                 : "simpleRepo\\/CDK.json",
+            "translationPathExpression" : "simpleRepo/${locale}-${region}/${originalFile.name}",
+            "smartlingDirectives"       : [
+                "smartling.translate_paths = [{\"path\": \"*/defaultMessage\",\"key\": \"/{*}/defaultMessage\",\"instruction\": \"\/description\"}]",
+                 "smartling.placeholder_format_custom = (\\$\\{[^\\}]+?\\})|(&[\\w\\d]+?;)",
+                 "smartling.variants_enabled = true"
+           ]
          }
      ]
 }
