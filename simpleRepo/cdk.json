@@ -1,0 +1,16 @@
+{
+  "+EqHAt" : {
+    "defaultMessage" : "Rapport de conciliation",
+    "description" : "Reconciliation Table HeaderTitle"
+  },
+
+  "/8Dinz" : {
+    "defaultMessage" : "Paiement net ($)",
+    "description" : "Net Payment column header"
+  },
+
+  "/x7H1p" : {
+    "defaultMessage" : "Statut",
+    "description" : "Payment status"
+  }
+}
