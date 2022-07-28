@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@stevenZapata 
-stevenZapata
-/
-simple_repo
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-simple_repo/simpleRepo/smartling-config.json
-@stevenZapata
-stevenZapata Update smartling-config.json
-Latest commit bfd6db7 4 minutes ago
- History
- 1 contributor
-67 lines (64 sloc)  4.52 KB
-
 {
     // Locales array defines which languages are requested for translation. These locales must already exist in the Smartling project.
     // You can have one or more locales, but smartling locale name must be unique
