@@ -7,19 +7,11 @@
     "locales": [
          {
              "smartling" : "de-DE",
-             "application" : "de-DE-DE"
-         },
-         {
-             "smartling" : "de-DE",
              "application" : "de-DE"
          },
          {
              "smartling" : "es-CO",
              "application" : "es-CO"
-         },
-         {
-             "smartling" : "es-CO",
-             "application" : "es-CO-CO"
          }
      ],
 
