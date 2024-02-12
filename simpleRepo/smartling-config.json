@@ -45,7 +45,7 @@
             "type"                      : "json",
             "authorizeContent"          : "true",
             "pathRegex"                 : "simpleRepo\\/simple.json",
-            "translationPathExpression" : "simpleRepo/${locale}-${region}/${originalFile.name}",
+            "translationPathExpression" : "simpleRepo/${locale}-${originalFile.name}",
             "smartlingDirectives"       : [
                  "smartling.placeholder_format_custom = (\\$\\{[^\\}]+?\\})|(&[\\w\\d]+?;)",
                  "smartling.variants_enabled = true"
@@ -56,7 +56,7 @@
             "type"                      : "json",
             "authorizeContent"          : "true",
             "pathRegex"                 : "simpleRepo\\/cdk.json",
-            "translationPathExpression" : "simpleRepo/${locale}-${region}/${originalFile.name}",
+            "translationPathExpression" : "simpleRepo/${locale/${originalFile.name}",
             "smartlingDirectives"       : [
                 "smartling.translate_paths = [{\"path\": \"*/defaultMessage\",\"key\": \"/{*}/defaultMessage\",\"instruction\": \"*/description\"}]",
                  "smartling.placeholder_format_custom = (\\$\\{[^\\}]+?\\})|(&[\\w\\d]+?;)",
