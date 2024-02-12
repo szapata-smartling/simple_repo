@@ -13,5 +13,6 @@
     "updatetwo": "making an update with the repo connectors",
     "test1": "bad json",
     "coffee": "Pergamino is the best",
-    "coffee2": "Colombia has the best coffee"
+    "coffee2": "Colombia has the best coffee",
+    "auto-authorize" "I have set this to false"
 }
