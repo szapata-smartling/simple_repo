@@ -13,5 +13,6 @@
   "updatetwo" : "Durchführen einer Aktualisierung mit den Repository-Konnektoren",
   "test1" : "Schlechter JSON",
   "coffee" : "Pergamino ist das Beste",
-  "coffee2" : "Kolumbien hat den besten Kaffee"
+  "coffee2" : "Kolumbien hat den besten Kaffee",
+  "auto-authorize" : "I have set this to false"
 }
