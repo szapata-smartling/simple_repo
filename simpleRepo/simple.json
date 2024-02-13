@@ -14,5 +14,6 @@
     "test1": "bad json",
     "coffee": "Pergamino is the best",
     "coffee2": "Colombia has the best coffee",
-    "auto-authorize": "I have set this to false"
+    "auto-authorize": "I have set this to false",
+    "working": "working on resource server config"
 }
