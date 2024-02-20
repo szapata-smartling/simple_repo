@@ -1,1 +1,4 @@
-{"test1": "this is a file for Ceridian"}
+{
+"test1": "this is a file for Ceridian",
+"locales": "locale overwritten"
+}
