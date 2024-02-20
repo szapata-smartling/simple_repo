@@ -1,4 +1,5 @@
 {
   "test1" : "Dies ist eine Datei für Ceridian - testtt",
-  "locales" : "Gebietsschema überschrieben"
+  "locales" : "Gebietsschema überschrieben",
+  "test2" : "Diese Datei sollte hochgeladen werden"
 }
