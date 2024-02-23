@@ -1,6 +1,6 @@
 {
-  "testingRegexFinal" : "Dies sollte für die endgültige Regex hochgeladen werden",
-  "upload" : "sollte erneut hochgeladen werden",
-  "work" : "Das sollte auch funktionieren",
-  "new" : "Das wird funktionieren"
+  "testingRegexFinal" : "[t~hís s~hóúl~d bé ú~plóá~déd f~ór fí~ñál r~égéx]",
+  "upload" : "[s~hóúl~d bé ú~plóá~déd á~gáíñ]",
+  "work" : "[t~hís s~hóúl~d wór~k ás w~éll]",
+  "new" : "[T~hís w~íll w~órk]"
 }
