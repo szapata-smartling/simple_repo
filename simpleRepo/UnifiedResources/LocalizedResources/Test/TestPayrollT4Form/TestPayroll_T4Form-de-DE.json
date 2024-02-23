@@ -2,5 +2,6 @@
   "testingRegexFinal" : "[t~hís s~hóúl~d bé ú~plóá~déd f~ór fí~ñál r~égéx]",
   "upload" : "[s~hóúl~d bé ú~plóá~déd á~gáíñ]",
   "work" : "[t~hís s~hóúl~d wór~k ás w~éll]",
-  "new" : "[T~hís w~íll w~órk]"
+  "new" : "[T~hís w~íll w~órk]",
+  "psuedo" : "[d~óés ~pséú~dó w~órk]"
 }
