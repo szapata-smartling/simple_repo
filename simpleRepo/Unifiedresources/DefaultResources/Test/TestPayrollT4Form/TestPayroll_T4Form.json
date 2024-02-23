@@ -2,5 +2,6 @@
   "testingRegexFinal": "this should be uploaded for final regex",
   "upload": "should be uploaded again",
   "work": "this should work as well",
-  "new": "This will work"
+  "new": "This will work",
+  "psuedo" "does pseudo work"
 }
