@@ -6,5 +6,6 @@
   "psuedo": "does pseudo work",
   "psuedo2": "does pseudo update work",
   "psuedo3": "does pseudo update update work",
-  "rassam": "this is a test for us"
+  "rassam": "this is a test for us",
+  "upload": "file does get uploaded with pseudo"
 }
