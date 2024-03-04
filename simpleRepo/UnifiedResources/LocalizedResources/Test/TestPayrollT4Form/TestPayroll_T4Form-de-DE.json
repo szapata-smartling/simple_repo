@@ -1,11 +1,12 @@
 {
-  "testingRegexFinal" : "[t~hís s~hóúl~d bé ú~plóá~déd f~ór fí~ñál r~égéx]",
-  "upload" : "[s~hóúl~d bé ú~plóá~déd á~gáíñ]",
-  "work" : "[t~hís s~hóúl~d wór~k ás w~éll]",
-  "new" : "[T~hís w~íll w~órk]",
-  "psuedo" : "[d~óés ~pséú~dó w~órk]",
-  "psuedo2" : "[d~óés p~séúd~ó úpd~áté w~órk]",
-  "psuedo3" : "[d~óés ~pséú~dó úp~dát~é úpd~áté w~órk]",
-  "rassam" : "[t~hís í~s á té~st fó~r ús]",
-  "upload" : "[f~ílé d~óés g~ét úp~lóád~éd wí~th ps~éúdó]"
+  "testingRegexFinal" : "Dies sollte für die endgültige Regex hochgeladen werden",
+  "upload" : "sollte erneut hochgeladen werden",
+  "work" : "Das sollte auch funktionieren",
+  "new" : "Das wird funktionieren",
+  "psuedo" : "macht Pseudo-Arbeit",
+  "psuedo2" : "Funktioniert das Pseudo-Update?",
+  "psuedo3" : "Funktioniert das Pseudo-Update-Update?",
+  "rassam" : "Das ist ein Test für uns",
+  "upload" : "Datei wird mit Pseudo hochgeladen",
+  "changes" : "Es wurden Änderungen an der Config vorgenommen"
 }
