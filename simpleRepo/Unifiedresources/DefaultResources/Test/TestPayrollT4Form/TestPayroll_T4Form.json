@@ -7,5 +7,6 @@
   "psuedo2": "does pseudo update work",
   "psuedo3": "does pseudo update update work",
   "rassam": "this is a test for us",
-  "upload": "file does get uploaded with pseudo"
+  "upload": "file does get uploaded with pseudo",
+  "changes": "changes have been made to the config"
 }
