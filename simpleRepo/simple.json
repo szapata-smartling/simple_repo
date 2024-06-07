@@ -15,5 +15,6 @@
     "coffee": "Pergamino is the best",
     "coffee2": "Colombia has the best coffee",
     "auto-authorize": "I have set this to false",
-    "working": "working on resource server config"
+    "working": "working on resource server config",
+    "uploadFriday": "this should be uploaded today"
 }
