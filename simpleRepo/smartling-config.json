@@ -43,7 +43,7 @@
         
          {
             "type"                      : "json",
-            "authorizeContent"          : "false",
+            "authorizeContent"          : "true",
             "pathRegex"                 : "simpleRepo\\/simple.json",
             "translationPathExpression" : "simpleRepo/${locale}-${originalFile.name}",
             "smartlingDirectives"       : [
