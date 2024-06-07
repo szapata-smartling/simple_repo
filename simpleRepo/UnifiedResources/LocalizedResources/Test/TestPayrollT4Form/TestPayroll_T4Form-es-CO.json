@@ -1,0 +1,13 @@
+{
+  "testingRegexFinal" : "Esto debe cargarse para la expresión regular final",
+  "upload" : "debe cargarse de nuevo",
+  "work" : "Esto también debería funcionar",
+  "new" : "Esto funcionará",
+  "psuedo" : "hace pseudo trabajo",
+  "psuedo2" : "¿Funciona la pseudoactualización?",
+  "psuedo3" : "¿Funciona la actualización de pseudoactualización?",
+  "rassam" : "Esta es una prueba para nosotros",
+  "upload" : "El archivo se carga con pseudo",
+  "changes" : "Se han realizado cambios en la configuración",
+  "cancel" : "El trabajo ha sido cancelado"
+}
