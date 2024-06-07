@@ -9,6 +9,6 @@
   "rassam": "this is a test for us",
   "upload": "file does get uploaded with pseudo",
   "changes": "changes have been made to the config",
-  "cancel": "job has been canceled".
+  "cancel": "job has been canceled",
   "cancel2": "new job will be canceled"
 }
