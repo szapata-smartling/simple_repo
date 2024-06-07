@@ -8,5 +8,6 @@
   "psuedo3" : "Funktioniert das Pseudo-Update-Update?",
   "rassam" : "Das ist ein Test für uns",
   "upload" : "Datei wird mit Pseudo hochgeladen",
-  "changes" : "Es wurden Änderungen an der Config vorgenommen"
+  "changes" : "Es wurden Änderungen an der Config vorgenommen",
+  "cancel" : "job has been canceled"
 }
