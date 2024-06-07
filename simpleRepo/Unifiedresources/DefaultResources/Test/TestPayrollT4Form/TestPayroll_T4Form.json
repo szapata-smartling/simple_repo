@@ -8,5 +8,6 @@
   "psuedo3": "does pseudo update update work",
   "rassam": "this is a test for us",
   "upload": "file does get uploaded with pseudo",
-  "changes": "changes have been made to the config"
+  "changes": "changes have been made to the config",
+  "cancel": "job has been canceled"
 }
