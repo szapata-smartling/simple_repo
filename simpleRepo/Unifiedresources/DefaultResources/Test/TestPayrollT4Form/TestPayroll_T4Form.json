@@ -10,5 +10,6 @@
   "upload": "file does get uploaded with pseudo",
   "changes": "changes have been made to the config",
   "cancel": "job has been canceled",
-  "cancel2": "new job will be canceled"
+  "cancel2": "new job will be canceled",
+  "deleted" "I deleted the file"
 }
