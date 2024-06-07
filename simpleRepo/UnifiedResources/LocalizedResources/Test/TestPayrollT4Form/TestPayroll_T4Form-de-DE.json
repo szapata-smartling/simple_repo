@@ -9,5 +9,6 @@
   "rassam" : "Das ist ein Test für uns",
   "upload" : "Datei wird mit Pseudo hochgeladen",
   "changes" : "Es wurden Änderungen an der Config vorgenommen",
-  "cancel" : "Der Auftrag wurde abgebrochen"
+  "cancel" : "Der Auftrag wurde abgebrochen",
+  "cancel2" : "new job will be canceled"
 }
