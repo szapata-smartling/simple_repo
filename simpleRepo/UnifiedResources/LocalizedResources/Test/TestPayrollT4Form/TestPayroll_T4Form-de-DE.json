@@ -10,5 +10,7 @@
   "upload" : "Datei wird mit Pseudo hochgeladen",
   "changes" : "Es wurden Änderungen an der Config vorgenommen",
   "cancel" : "Der Auftrag wurde abgebrochen",
-  "cancel2" : "new job will be canceled"
+  "cancel2" : "neuer Job wird storniert",
+  "deleted" : "Ich habe die Datei gelöscht",
+  "delete2" : "Zweites Löschen"
 }

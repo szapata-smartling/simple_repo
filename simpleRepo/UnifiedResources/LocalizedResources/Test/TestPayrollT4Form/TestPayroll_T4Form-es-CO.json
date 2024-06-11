@@ -10,5 +10,7 @@
   "upload" : "El archivo se carga con pseudo",
   "changes" : "Se han realizado cambios en la configuración",
   "cancel" : "El trabajo ha sido cancelado",
-  "cancel2" : "new job will be canceled"
+  "cancel2" : "El nuevo trabajo será cancelado",
+  "deleted" : "He borrado el archivo",
+  "delete2" : "Eliminación por segunda vez"
 }
