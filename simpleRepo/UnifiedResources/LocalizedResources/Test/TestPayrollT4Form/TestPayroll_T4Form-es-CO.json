@@ -15,5 +15,6 @@
   "delete2" : "Eliminación por segunda vez",
   "repos" : "Dos repositorios en ejecución",
   "upload" : "Sube uno primero",
-  "upload1" : "Subir ahora"
+  "upload1" : "Subir ahora",
+  "2uplaods" : "¿Cargará el archivo dos veces?"
 }
