@@ -12,5 +12,6 @@
   "cancel" : "Der Auftrag wurde abgebrochen",
   "cancel2" : "neuer Job wird storniert",
   "deleted" : "Ich habe die Datei gelöscht",
-  "delete2" : "Zweites Löschen"
+  "delete2" : "Zweites Löschen",
+  "repos" : "zwei Repos laufen"
 }
