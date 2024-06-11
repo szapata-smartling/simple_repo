@@ -12,5 +12,6 @@
   "cancel" : "El trabajo ha sido cancelado",
   "cancel2" : "El nuevo trabajo será cancelado",
   "deleted" : "He borrado el archivo",
-  "delete2" : "Eliminación por segunda vez"
+  "delete2" : "Eliminación por segunda vez",
+  "repos" : "Dos repositorios en ejecución"
 }
