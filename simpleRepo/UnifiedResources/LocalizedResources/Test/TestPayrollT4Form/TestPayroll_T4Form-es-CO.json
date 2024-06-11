@@ -14,5 +14,6 @@
   "deleted" : "He borrado el archivo",
   "delete2" : "Eliminación por segunda vez",
   "repos" : "Dos repositorios en ejecución",
-  "upload" : "Sube uno primero"
+  "upload" : "Sube uno primero",
+  "upload1" : "Subir ahora"
 }
