@@ -13,5 +13,6 @@
   "cancel2" : "neuer Job wird storniert",
   "deleted" : "Ich habe die Datei gelöscht",
   "delete2" : "Zweites Löschen",
-  "repos" : "zwei Repos laufen"
+  "repos" : "zwei Repos laufen",
+  "upload" : "lade zuerst eins hoch"
 }
