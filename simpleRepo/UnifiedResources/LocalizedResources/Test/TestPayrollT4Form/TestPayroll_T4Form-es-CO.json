@@ -16,5 +16,6 @@
   "repos" : "Dos repositorios en ejecución",
   "upload" : "Sube uno primero",
   "upload1" : "Subir ahora",
-  "2uplaods" : "¿Cargará el archivo dos veces?"
+  "2uplaods" : "¿Cargará el archivo dos veces?",
+  "connectors2" : "Dos conectores"
 }
