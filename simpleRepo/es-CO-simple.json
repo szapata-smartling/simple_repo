@@ -15,5 +15,6 @@
   "coffee" : "Pergamino es el mejor",
   "coffee2" : "Colombia tiene el mejor café",
   "auto-authorize" : "He configurado esto como falso",
-  "working" : "Trabajar en la configuración del servidor de recursos - update en dashboard"
+  "working" : "Trabajar en la configuración del servidor de recursos - update en dashboard",
+  "uploadFriday" : "Esto debería subirse hoy"
 }

@@ -1,0 +1,20 @@
+{
+  "simple" : "Dies ist ein einfaches Repo update",
+  "newString" : "Den Locale-Code geändert und jetzt ein Update vornehmen",
+  "testing" : "Dies ist ein Test",
+  "edit" : "Eine Bearbeitung vornehmen",
+  "upload" : "wird diese Datei auch manuell hochladen",
+  "works" : "Ich hoffe, das funktioniert",
+  "repo" : "Wir treffen uns wieder, bester Freund",
+  "soccer" : "Dies ist ein Fußballspiel",
+  "test" : "Das sollte funktionieren",
+  "working" : "Das wird heute funktionieren!",
+  "two" : "Zwei verschiedene Repos gleichzeitig!",
+  "updatetwo" : "Durchführen einer Aktualisierung mit den Repository-Konnektoren",
+  "test1" : "Schlechter JSON",
+  "coffee" : "Pergamino ist das Beste",
+  "coffee2" : "Kolumbien hat den besten Kaffee",
+  "auto-authorize" : "Ich habe dies auf false gesetzt",
+  "working" : "Arbeiten an der Resource Server-Konfiguration",
+  "uploadFriday" : "das sollte heute hochgeladen werden"
+}
