@@ -17,5 +17,6 @@
   "upload": "upload one first",
   "upload1": "upload now",
   "2uplaods": "will it upload the file twice",
-  "connectors2": "two connectors"
+  "connectors2": "two connectors",
+  "uploadOnly": "upload the file only"
 }
