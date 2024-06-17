@@ -17,5 +17,6 @@
   "upload" : "lade zuerst eins hoch",
   "upload1" : "jetzt hochladen",
   "2uplaods" : "wird die Datei zweimal hochgeladen",
-  "connectors2" : "zwei Anschlüsse"
+  "connectors2" : "zwei Anschlüsse",
+  "uploadOnly" : "Laden Sie nur die Datei hoch"
 }

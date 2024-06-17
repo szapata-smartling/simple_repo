@@ -17,5 +17,6 @@
   "upload" : "Sube uno primero",
   "upload1" : "Subir ahora",
   "2uplaods" : "¿Cargará el archivo dos veces?",
-  "connectors2" : "Dos conectores"
+  "connectors2" : "Dos conectores",
+  "uploadOnly" : "Cargue solo el archivo"
 }
