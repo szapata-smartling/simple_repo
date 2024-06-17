@@ -18,5 +18,6 @@
   "upload1": "upload now",
   "2uplaods": "will it upload the file twice",
   "connectors2": "two connectors",
-  "uploadOnly": "upload the file only"
+  "uploadOnly": "upload the file only",
+  "download1": "should it download it"
 }
