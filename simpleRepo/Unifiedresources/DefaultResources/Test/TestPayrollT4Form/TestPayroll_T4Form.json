@@ -22,5 +22,6 @@
   "download1": "should it download it",
   "deOnly": "Translate into German only",
   "remove": "remove this string",
-  "remove2": "I will not remove this string"
+  "remove2": "I will not remove this string",
+  "newJob": "Stirng should be in a job"
 }
