@@ -20,5 +20,7 @@
   "connectors2": "two connectors",
   "uploadOnly": "upload the file only",
   "download1": "should it download it",
-  "deOnly": "Translate into German only"
+  "deOnly": "Translate into German only",
+  "remove": "remove this string",
+  "remove2": "I will not remove this string"
 }
