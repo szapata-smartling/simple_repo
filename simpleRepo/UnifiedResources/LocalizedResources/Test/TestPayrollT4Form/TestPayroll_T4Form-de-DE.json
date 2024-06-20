@@ -20,5 +20,7 @@
   "connectors2" : "zwei Anschlüsse",
   "uploadOnly" : "Laden Sie nur die Datei hoch",
   "download1" : "sollte es heruntergeladen werden",
-  "deOnly" : "Nur ins Deutsche übersetzen"
+  "deOnly" : "Nur ins Deutsche übersetzen",
+  "remove" : "remove this string",
+  "remove2" : "Ich werde diese Zeichenfolge nicht entfernen"
 }
