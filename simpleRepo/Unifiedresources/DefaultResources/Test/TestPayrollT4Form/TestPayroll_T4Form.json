@@ -23,5 +23,6 @@
   "deOnly": "Translate into German only",
   "remove": "remove this string",
   "remove2": "I will not remove this string",
-  "newJob": "Stirng should be in a job"
+  "newJob": "Stirng should be in a job",
+  "two": "Captured by second repo"
 }
