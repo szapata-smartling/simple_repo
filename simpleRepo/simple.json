@@ -17,5 +17,6 @@
     "auto-authorize": "I have set this to false",
     "working": "working on resource server config",
     "uploadFriday": "this should be uploaded today",
-    "mutlple": "Running two instances of the repo connector"
+    "mutlple": "Running two instances of the repo connector",
+    "test": "Upload file"
 }
