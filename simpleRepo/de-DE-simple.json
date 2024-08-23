@@ -18,5 +18,6 @@
   "working" : "Arbeiten an der Resource Server-Konfiguration",
   "uploadFriday" : "das sollte heute hochgeladen werden",
   "mutlple" : "Ausführen von zwei Instanzen des Repo-Connectors",
-  "test" : "Datei hochladen"
+  "test" : "Datei hochladen",
+  "cancelJob" : "will cancel this"
 }
