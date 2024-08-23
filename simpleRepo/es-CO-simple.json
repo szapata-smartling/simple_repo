@@ -1,5 +1,5 @@
 {
-  "simple" : "Este es un repositorio simple - update - second update - third update",
+  "simple" : "Este es un repositorio simple - usfsfsfsf",
   "newString" : "Se ha cambiado el código de configuración regional y se está actualizando ahora",
   "testing" : "Esto es una prueba",
   "edit" : "Hacer una edición",
@@ -17,5 +17,6 @@
   "auto-authorize" : "He configurado esto como falso",
   "working" : "Trabajar en la configuración del servidor de recursos - update en dashboard",
   "uploadFriday" : "Esto debería subirse hoy",
-  "mutlple" : "Ejecución de dos instancias del conector de repositorio"
+  "mutlple" : "Ejecución de dos instancias del conector de repositorio",
+  "test" : "Upload file"
 }
