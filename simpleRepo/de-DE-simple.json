@@ -17,5 +17,6 @@
   "auto-authorize" : "Ich habe dies auf false gesetzt",
   "working" : "Arbeiten an der Resource Server-Konfiguration",
   "uploadFriday" : "das sollte heute hochgeladen werden",
-  "mutlple" : "Ausführen von zwei Instanzen des Repo-Connectors"
+  "mutlple" : "Ausführen von zwei Instanzen des Repo-Connectors",
+  "test" : "Datei hochladen"
 }
