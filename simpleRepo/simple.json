@@ -19,5 +19,6 @@
     "uploadFriday": "this should be uploaded today",
     "mutlple": "Running two instances of the repo connector",
     "test": "Upload file",
-    "cancelJob": "will cancel this"
+    "cancelJob": "will cancel this",
+    "new": "At versus cafe"
 }
