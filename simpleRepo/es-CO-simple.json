@@ -20,5 +20,6 @@
   "mutlple" : "Ejecución de dos instancias del conector de repositorio",
   "test" : "Subir archivo",
   "cancelJob" : "cancelará este",
-  "new" : "En el café versus"
+  "new" : "En el café versus",
+  "regex" : "arreglar el regex"
 }
