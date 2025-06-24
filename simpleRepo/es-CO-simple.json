@@ -18,6 +18,7 @@
   "working" : "Trabajar en la configuración del servidor de recursos - update en dashboard",
   "uploadFriday" : "Esto debería subirse hoy",
   "mutlple" : "Ejecución de dos instancias del conector de repositorio",
-  "test" : "Upload file",
-  "cancelJob" : "will cancel this"
+  "test" : "Subir archivo",
+  "cancelJob" : "cancelará este",
+  "new" : "En el café versus"
 }
