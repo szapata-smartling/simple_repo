@@ -20,5 +20,6 @@
     "mutlple": "Running two instances of the repo connector",
     "test": "Upload file",
     "cancelJob": "will cancel this",
-    "new": "At versus cafe"
+    "new": "At versus cafe",
+    "regex": "Needed to fix regex"
 }
