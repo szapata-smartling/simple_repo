@@ -21,5 +21,6 @@
     "test": "Upload file",
     "cancelJob": "will cancel this",
     "new": "At versus cafe",
-    "regex": "Needed to fix regex"
+    "regex": "Needed to fix regex",
+    "create1": "create a new localized file"
 }
