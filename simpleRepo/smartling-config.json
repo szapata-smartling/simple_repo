@@ -55,7 +55,7 @@
             "type"                      : "json",
             "authorizeContent"          : "true",
             "translationCommitMessage": "Translate ${originalFile.fullName} to ${locale}",
-            "pathRegex"                 : "simpleRepo\\/geico-test\//geico.json",
+            "pathRegex"                 : "simpleRepo\\/geico-test\\/geico\\.json",
             "translationPathExpression" : "#{originalFile.path}/#{originalFile.fullName.replaceAll(*/en/', '/es/')}",
             "smartlingDirectives"       : [
                  "smartling.placeholder_format_custom = (\\$\\{[^\\}]+?\\})|(&[\\w\\d]+?;)",
