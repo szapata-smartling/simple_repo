@@ -22,5 +22,6 @@
     "cancelJob": "will cancel this",
     "new": "At versus cafe",
     "regex": "Needed to fix regex",
-    "create1": "create a new localized file"
+    "create1": "create a new localized file",
+    "create2": "I'm at starbucks",
 }
